@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Text Editor
+
+<img src="https://github.com/iShinzoo/FourTrax-A/blob/main/text%20editor%20tiptap.png" alt="project-screenshot" width="800" height="400/">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
